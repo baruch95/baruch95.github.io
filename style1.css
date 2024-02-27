@@ -1,0 +1,55 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  padding: 0;
+  background-image: url(bg-1.png); /* bg1 e 8 ok*/
+  background-repeat: no-repeat;
+  background-position: center;
+  max-width: 768px;
+  margin: auto;
+  
+}
+
+header {
+  padding: 20px;
+  text-align: center;
+  color: #fff;
+  background-color: rgba(188, 0, 45, 0.90);
+  margin-bottom: 0px;
+}
+
+.subject-line {
+  background-color: rgba(60, 80, 80, 0.90);
+  padding: 10px;
+  margin-top:0px;
+  margin-bottom: 0px;
+  color: #fff;
+}
+
+h1, h2 {
+  margin: 0;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #f0f0f0;
+  padding: 10px;
+  text-align: center;
+}
+
+.welcome-message, .destination-highlight, .fun-fact, .next-week-teaser, .phrase-week {
+  border: 1px solid #ddd;
+  background-color: rgba(230, 210, 180, 0.75);
+  padding: 15px;
+}
+
+.subject-line h2 {
+  text-align: center;
+}
+
