@@ -1,12 +1,11 @@
 body {
   font-family: 'Montserrat', sans-serif;
   padding: 0;
-  background-image: url(bg-3.png); /* bg-4 ok */
+  background-image: url(bg-8.png); /* bg1 e 8 ok*/
   background-repeat: no-repeat;
   background-position: center;
   max-width: 768px;
   margin: auto;
-  color: #fff;
   
 }
 
@@ -42,12 +41,11 @@ footer {
   background-color: #f0f0f0;
   padding: 10px;
   text-align: center;
-  color: #000;
 }
 
 .welcome-message, .destination-highlight, .fun-fact, .next-week-teaser, .phrase-week {
   border: 1px solid #ddd;
-  background-color: rgba(50, 80, 100, 0.75);
+  background-color: rgba(230, 210, 180, 0.85);
   padding: 15px;
 }
 
@@ -55,26 +53,3 @@ footer {
   text-align: center;
 }
 
-main a:link {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-main a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-main a:hover {
-  color: pink;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-main a:active {
-  color: white;
-  background-color: transparent;
-  text-decoration: underline;
-}
